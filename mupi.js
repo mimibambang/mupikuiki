@@ -1,4 +1,4 @@
-var lpmovie = 'http://hd.fullmoviebox.site';
+var lpmovie = 'http://www.cinemais.stream';
 var longjsonbook = ''; //10000 keyword
 var sortjsonbook = ''; //100 keyword
 var longjsonmovie = ''; //10000 keyword
