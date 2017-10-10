@@ -1,4 +1,4 @@
-var lpmovie = 'https://cinemais.herokuapp.com';
+var lpmovie = 'http://cinemais.herokuapp.com';
 var longjsonbook = ''; //10000 keyword
 var sortjsonbook = ''; //100 keyword
 var longjsonmovie = ''; //10000 keyword
