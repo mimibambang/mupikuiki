@@ -1,4 +1,4 @@
-var lpmovie = 'http://cinemais.live';
+var lpmovie = 'http://cinemais.club';
 var longjsonbook = ''; //10000 keyword
 var sortjsonbook = ''; //100 keyword
 var longjsonmovie = ''; //10000 keyword
